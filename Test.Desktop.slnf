@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "Test.sln",
+    "projects": [
+      "Test.Desktop\\Test.Desktop.csproj",
+      "Test.Game.Tests\\Test.Game.Tests.csproj",
+      "Test.Game\\Test.Game.csproj",
+      "Test.Resources\\Test.Resources.csproj"
+    ]
+  }
+}
