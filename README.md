@@ -1,4 +1,4 @@
-# of-TicTacToe
+# OFTicTacToe
 ![image](docs/of-TicTacToe.png)
 A simple Tic Tac Toe game made wih the osu-framework
 
